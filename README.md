@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @adeptusmortem
-- 👀 I’m interested in games, music, AI
-- 🌱 I’m currently learning all sorts of engineering and coding 
-- 📫 How to reach me: write somewhere something...
-- 😄 Pronouns: he
-- ⚡ Fun fact: 1 + 4 != 5!
+- 👋 Hi, I’m Igor
